@@ -25,7 +25,7 @@ This project includes a **3-page Power BI report** that provides a clear and int
 3. **Returns & Regional Analysis**  
    - Detailed breakdown of return rates by product and region.  
    - Analyzes performance by sales personnel and regional trends.
-   - 
+     
 ![WhatsApp Image 2024-12-16 at 10 11 46 AM](https://github.com/user-attachments/assets/d3c67c33-614a-4f81-a157-135cffb9b6bc)
 
 ---
@@ -50,11 +50,6 @@ This project includes a **3-page Power BI report** that provides a clear and int
 1. Open the **.pbix file** in Power BI Desktop.  
 2. Explore each page to analyze sales trends, customer insights, and regional performance.  
 3. Interact with filters and visuals for a customized view of the data.  
-
----
-
-## Screenshots  
-
 
 ---
 
