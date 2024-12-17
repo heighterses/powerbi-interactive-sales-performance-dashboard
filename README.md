@@ -11,15 +11,22 @@ This project includes a **3-page Power BI report** that provides a clear and int
 
 1. **Sales Overview**  
    - Visualizes total sales, profits, and order trends over time.  
-   - Helps identify overall performance and key sales periods.  
+   - Helps identify overall performance and key sales periods.
+
+  ![WhatsApp Image 2024-12-16 at 10 11 45 AM](https://github.com/user-attachments/assets/abbb208f-5e27-4811-8f9b-43fad8b52347)
 
 2. **Customer & Product Insights**  
    - Highlights top-performing products and customers.  
-   - Shows profit margins across products and categories.  
+   - Shows profit margins across products and categories.
+  
+![WhatsApp Image 2024-12-16 at 10 11 45 AM (1)](https://github.com/user-attachments/assets/e0fdfa57-d872-428e-95d8-43454272406c)
+
 
 3. **Returns & Regional Analysis**  
    - Detailed breakdown of return rates by product and region.  
-   - Analyzes performance by sales personnel and regional trends.  
+   - Analyzes performance by sales personnel and regional trends.
+   - 
+![WhatsApp Image 2024-12-16 at 10 11 46 AM](https://github.com/user-attachments/assets/d3c67c33-614a-4f81-a157-135cffb9b6bc)
 
 ---
 
@@ -48,7 +55,6 @@ This project includes a **3-page Power BI report** that provides a clear and int
 
 ## Screenshots  
 
-(Include screenshots of the Power BI dashboards here for better visibility.)
 
 ---
 
